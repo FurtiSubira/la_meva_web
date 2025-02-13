@@ -1,0 +1,13 @@
+html {background-color: lightblue;
+font-family:Gill sans}
+tittle {text-align: center;
+ font-family:Georgia;
+color: darkblue}
+section {background-color: white;
+padding: 15px;}
+ul {list-style-type:square}
+img { width: 200px;
+  height: 200px;
+  display: block;
+margin-left:auto;}
+b {color:darkblue}
